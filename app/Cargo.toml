@@ -1,0 +1,10 @@
+[package]
+name = "nc-link-opener"
+description = "Open links through netcat"
+version.workspace = true
+edition.workspace = true
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+url = "2.5.0"

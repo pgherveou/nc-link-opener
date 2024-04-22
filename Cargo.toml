@@ -1,0 +1,12 @@
+[workspace]
+resolver = "2"
+members = [
+    "app",
+    "launcher",
+]
+[workspace.package]
+edition = "2021"
+authors = ["PG Herveou"]
+license = "Apache-2.0"
+version = "0.0.1"
+
